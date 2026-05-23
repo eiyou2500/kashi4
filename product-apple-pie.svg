@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-labelledby="t d">
+  <title id="t">アップルパイの線画</title>
+  <desc id="d">焼き色のついたアップルパイを上品な線画で表したイラストです。</desc>
+  <defs>
+    <linearGradient id="crust" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4d29a"/>
+      <stop offset="1" stop-color="#a96b43"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="214" cy="246" rx="142" ry="34" fill="#4a2f27" opacity=".11"/>
+  <path d="M82 173c10-58 58-99 126-102 72-3 123 41 136 99 9 39-43 67-132 67-85 0-137-24-130-64Z" fill="url(#crust)" stroke="#6a473b" stroke-width="3" stroke-opacity=".42"/>
+  <path d="M94 172c43 25 80 37 124 37 48 0 89-15 116-39" fill="none" stroke="#6a473b" stroke-width="2.5" opacity=".38" stroke-linecap="round"/>
+  <path d="M111 139c32 22 65 32 100 31 38 0 72-12 104-35M142 102c22 18 48 27 78 26 33 0 61-10 85-30" fill="none" stroke="#fff5df" stroke-width="6" opacity=".55" stroke-linecap="round"/>
+  <path d="M162 80c-9 48-11 96-6 144M224 75c8 54 7 103-3 151M281 91c14 42 16 84 6 126" fill="none" stroke="#744936" stroke-width="2" opacity=".34" stroke-linecap="round"/>
+  <path d="M111 207c37 17 79 26 126 25" fill="none" stroke="#f6c979" stroke-width="7" opacity=".5" stroke-linecap="round"/>
+  <path d="M307 61c10-16 26-21 43-17-2 16-12 28-30 34" fill="#9cae88" stroke="#60704f" stroke-width="2" opacity=".9"/>
+  <path d="M305 79c-14-14-25-15-40-8" fill="none" stroke="#7b4f3f" stroke-width="3" stroke-linecap="round"/>
+</svg>

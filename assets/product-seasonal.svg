@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-labelledby="t d">
+  <title id="t">季節のパイの線画</title>
+  <desc id="d">季節の果物を添えた丸いパイを淡く上品に描いたイラストです。</desc>
+  <defs>
+    <linearGradient id="season" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7d7a1"/>
+      <stop offset=".7" stop-color="#cf8b56"/>
+      <stop offset="1" stop-color="#8b5238"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="214" cy="249" rx="132" ry="31" fill="#4a2f27" opacity=".11"/>
+  <circle cx="214" cy="159" r="95" fill="url(#season)" stroke="#6a473b" stroke-width="3" stroke-opacity=".42"/>
+  <circle cx="214" cy="159" r="76" fill="none" stroke="#fff4df" stroke-width="7" stroke-opacity=".55"/>
+  <circle cx="214" cy="159" r="56" fill="none" stroke="#704532" stroke-width="2.2" stroke-opacity=".28"/>
+  <path d="M141 155c43-17 94-17 146 0M156 194c34 17 72 19 115 0M157 119c35-18 73-19 112-2" fill="none" stroke="#fff8ea" stroke-width="5" opacity=".44" stroke-linecap="round"/>
+  <path d="M214 69c-7 58-7 117 0 178M126 159c58-7 117-7 176 0M152 97c40 45 83 88 125 127M275 96c-38 44-80 86-125 128" fill="none" stroke="#744936" stroke-width="1.8" opacity=".28" stroke-linecap="round"/>
+  <g>
+    <circle cx="164" cy="111" r="14" fill="#d9a8a1" stroke="#6a473b" stroke-opacity=".25" stroke-width="2"/>
+    <circle cx="262" cy="119" r="13" fill="#9cae88" stroke="#60704f" stroke-opacity=".25" stroke-width="2"/>
+    <circle cx="245" cy="202" r="15" fill="#d9a8a1" stroke="#6a473b" stroke-opacity=".25" stroke-width="2"/>
+  </g>
+</svg>

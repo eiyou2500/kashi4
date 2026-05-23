@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-labelledby="t d">
+  <title id="t">フラン・ナチュールの線画</title>
+  <desc id="d">なめらかな焼き色のフランをパイ生地とともに描いたイラストです。</desc>
+  <defs>
+    <linearGradient id="flan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7e0ab"/>
+      <stop offset=".55" stop-color="#e6b970"/>
+      <stop offset="1" stop-color="#b97e52"/>
+    </linearGradient>
+    <linearGradient id="side" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9a660"/>
+      <stop offset="1" stop-color="#8c573d"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="212" cy="250" rx="128" ry="30" fill="#4a2f27" opacity=".11"/>
+  <path d="M96 129c0-38 52-69 116-69s116 31 116 69v72c0 39-52 69-116 69S96 240 96 201Z" fill="url(#side)" stroke="#6a473b" stroke-width="3" stroke-opacity=".38"/>
+  <ellipse cx="212" cy="128" rx="116" ry="69" fill="url(#flan)" stroke="#6a473b" stroke-width="3" stroke-opacity=".38"/>
+  <path d="M124 121c36-34 139-45 179 1" fill="none" stroke="#fff5df" stroke-width="7" opacity=".55" stroke-linecap="round"/>
+  <path d="M126 153c23 23 59 36 88 36 37 0 70-12 88-35" fill="none" stroke="#7a4b36" stroke-width="2.3" opacity=".28" stroke-linecap="round"/>
+  <path d="M116 190c30 18 62 27 97 27 35 0 67-9 96-27" fill="none" stroke="#f1d092" stroke-width="5" opacity=".45" stroke-linecap="round"/>
+  <g opacity=".32" stroke="#fff5df" stroke-width="4" stroke-linecap="round">
+    <path d="M151 104c13-9 30-14 49-16"/>
+    <path d="M222 87c22 1 41 6 56 16"/>
+  </g>
+</svg>

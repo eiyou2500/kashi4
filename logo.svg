@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 124" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">Le Tomona</title>
+  <desc id="logo-desc">ル・トモナのテキストロゴ。手描き風のパイの線画を添えています。</desc>
+  <defs>
+    <linearGradient id="logoInk" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#5a3127"/>
+      <stop offset="1" stop-color="#7a4a3d"/>
+    </linearGradient>
+    <linearGradient id="logoRose" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#c8948d"/>
+      <stop offset="1" stop-color="#a96b62"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#7a4a3d" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="52" cy="62" rx="40" ry="34" fill="#fff7ed" stroke-width="1.4"/>
+    <path d="M14 56c12-5 26-7 38-7s26 2 38 7" stroke-width="1.2" opacity=".8"/>
+    <path d="M18 70c11 4 24 6 34 6s23-2 34-6" stroke-width="1.2" opacity=".7"/>
+    <path d="M22 46c10 2 22 3 30 3s20-1 30-3" stroke-width="1" opacity=".55"/>
+    <path d="M40 30c-2 14-2 50 0 64M52 28c0 14 0 50 0 66M64 30c2 14 2 50 0 64" stroke-width=".9" opacity=".48"/>
+    <path d="M30 38c4-4 10-6 22-6s18 2 22 6" stroke-width="1" opacity=".6"/>
+    <circle cx="34" cy="38" r="1.2" fill="#a96b62" stroke="none"/>
+    <circle cx="70" cy="38" r="1.2" fill="#a96b62" stroke="none"/>
+  </g>
+  <text x="118" y="58" fill="url(#logoInk)" font-family="Italiana, Cormorant Garamond, serif" font-size="50" font-weight="400" letter-spacing="2.5">Le Tomona</text>
+  <g transform="translate(118 76)">
+    <line x1="0" y1="0" x2="220" y2="0" stroke="#d9b5ad" stroke-width=".8"/>
+    <circle cx="0" cy="0" r="1.6" fill="#d9b5ad"/>
+    <circle cx="220" cy="0" r="1.6" fill="#d9b5ad"/>
+  </g>
+  <text x="120" y="96" fill="#7a4a3d" font-family="Shippori Mincho B1, Yu Mincho, serif" font-size="13" letter-spacing="6">ル・トモナ</text>
+  <text x="244" y="96" fill="url(#logoRose)" font-family="Cormorant Garamond, serif" font-style="italic" font-size="14" letter-spacing="1.2">— pies &amp; flans</text>
+  <text x="120" y="114" fill="#b8918a" font-family="Italiana, serif" font-size="10" letter-spacing="3.5">PÂTISSERIE · MAIBARA · SHIGA</text>
+</svg>
